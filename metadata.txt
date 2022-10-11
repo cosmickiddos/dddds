@@ -1,0 +1,6 @@
+ {
+  "name": "SPACE Token",
+  "symbol": "SPACE",
+  "description": "SPACE Token",
+  "image": "https://raw.githubusercontent.com/cosmickiddos/dddds/e35ccf7e65ac6eb2a4a8ef2f950af8f142dcfd69/ccccc.png"
+} 
